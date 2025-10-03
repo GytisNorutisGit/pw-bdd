@@ -72,10 +72,3 @@ test('BDD Test', async ({ page, step }) => {
         await expect(page.getByRole('heading', { name: 'Welcome' })).toBeVisible();
     });
 })
-
-
-
-
-
-
-

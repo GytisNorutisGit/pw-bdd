@@ -26,6 +26,4 @@ export class HomePage {
       await this.getStartedLink.click();
     });
   }
-
-
 }
